@@ -39,6 +39,33 @@ Sample Superstore Dataset
 - Improve Furniture pricing strategy.
 - Focus marketing campaigns on Consumer customers.
 - Expand successful sales strategies from the West region.
+## Sales by Category
+
+![Sales by Category](images/Sales_by_Category.png)
+
+## Profit by Category
+
+![Profit by Category](images/Profit_by_Category.png)
+
+## Sales by Region
+
+![Sales by Region](images/Sales_by_Region.png)
+
+## Top 10 States
+
+![Top 10 States](images/Top_10_States_by_Sales.png)
+
+## Top 10 Subcategories
+
+![Top 10 Subcategories](images/Top_10_Subcategories.png)
+
+## Customer Segment
+
+![Customer Segment](images/Sales_by_Customer_Segment.png)
+
+## Discount vs Profit
+
+![Discount vs Profit](images/Discount_vs_Profit.png)
 
 ## Files
 - Superstore_Sales_Analysis.ipynb
