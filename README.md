@@ -1,20 +1,29 @@
 # Superstore Sales Analysis
 
 ## Project Overview
+
 This project analyzes the Sample Superstore dataset using Python to discover sales trends, customer behavior, regional performance, and profitability.
 
+---
+
 ## Tools Used
+
 - Python
 - Pandas
 - Matplotlib
 - Google Colab
 
-## Dataset
-Sample Superstore Dataset
+---
 
-## Analysis Performed
+## Dataset
+
+- SampleSuperstore.csv
+
+---
+
+## Project Tasks
+
 - Data Cleaning
-- Missing Values Check
 - Duplicate Rows Check
 - Descriptive Statistics
 - Top 10 States by Sales
@@ -25,7 +34,10 @@ Sample Superstore Dataset
 - Top 10 Subcategories
 - Discount vs Profit Analysis
 
+---
+
 ## Key Findings
+
 - California achieved the highest sales.
 - Technology generated the highest revenue.
 - Furniture had the lowest profit despite strong sales.
@@ -33,43 +45,69 @@ Sample Superstore Dataset
 - Higher discounts were associated with lower profits.
 - The West region had the strongest sales performance.
 
+---
+
 ## Business Recommendations
+
 - Increase investment in Technology products.
 - Review discount strategies to improve profitability.
 - Improve Furniture pricing strategy.
 - Focus marketing campaigns on Consumer customers.
 - Expand successful sales strategies from the West region.
+
+---
+
+# Project Visualizations
+
 ## Sales by Category
 
-![Sales by Category](images/Sales_by_Category.png)
+![Sales by Category](Sales_by_Category.png)
+
+---
 
 ## Profit by Category
 
-![Profit by Category](images/Profit_by_Category.png)
+![Profit by Category](Profit_by_Category.png)
+
+---
 
 ## Sales by Region
 
-![Sales by Region](images/Sales_by_Region.png)
+![Sales by Region](Sales_by_Region.png)
 
-## Top 10 States
+---
 
-![Top 10 States](images/Top_10_States_by_Sales.png)
+## Top 10 States by Sales
+
+![Top 10 States](Top_10_States_by_Sales.png)
+
+---
+
+## Sales by Customer Segment
+
+![Sales by Customer Segment](Sales_by_Customer_Segment.png)
+
+---
 
 ## Top 10 Subcategories
 
-![Top 10 Subcategories](images/Top_10_Subcategories.png)
+![Top 10 Subcategories](Top_10_Subcategories.png)
 
-## Customer Segment
-
-![Customer Segment](images/Sales_by_Customer_Segment.png)
+---
 
 ## Discount vs Profit
 
-![Discount vs Profit](images/Discount_vs_Profit.png)
+![Discount vs Profit](Discount_vs_Profit.png)
+
+---
 
 ## Files
+
 - Superstore_Sales_Analysis.ipynb
 - SampleSuperstore.csv
 
+---
+
 ## Author
-Shaikah Alajmi
+
+**Shaikah Alajmi**
